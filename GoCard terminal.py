@@ -1,4 +1,4 @@
-## Q1.py ##
+## GoCard terminal.py ##
 ## The goal of this task was to create a simple gocard terminal which takes 4 simple commands
 ## initially the user is asked for the initial balance of the go card
 ## then they have the option to input 4 commands 
